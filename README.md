@@ -257,3 +257,12 @@ int getValue() const {
     return value;
 }
 ```
+
+## What's more?
+<a href="https://interviewplus.ai/developers-and-programmers/c-plus-plus/questions">A comprehensive list of questions and answers</a>
+
+## Contributing
+We welcome contributions from our users to help make this resource as comprehensive and useful as possible. If you have been recently interviewed and encountered a question that is not currently covered on our website, feel free to suggest it as a new question. Your contributions will be added to our platform, and we will make sure to credit you for your contributions. We appreciate your help in making our platform a valuable tool for all job seekers.
+
+## License
+MIT License
