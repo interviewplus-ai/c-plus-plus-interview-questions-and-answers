@@ -16,6 +16,9 @@ Most targeted up-to-date C++ interview questions and answers list
 10. [What is a destructor?](#10-what-is-a-destructor)
 11. [What is the difference between a shallow copy and a deep copy?](#11-what-is-the-difference-between-a-shallow-copy-and-a-deep-copy)
 12. [What is the `const` keyword in C++?](#12-what-is-the-const-keyword-in-c)
+- [Whats more?](#whats-more)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## 1. What is the difference between struct and class in C++?
